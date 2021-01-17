@@ -1,3 +1,4 @@
+
 @media (min-width: 993px) {
     .down_scroll:hover {
         cursor: pointer;
@@ -22,11 +23,6 @@
 
     .dr_Down .sub-menu__list a:hover {
         color: #00ABED;
-    }
-
-    .dr_Down:hover .sub-menu__list {
-        visibility: visible;
-        opacity: 1;
     }
 
     .dr_Down:hover svg {

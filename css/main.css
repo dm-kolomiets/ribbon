@@ -555,3 +555,8 @@ p {
         -ms-transform: translateX(-50%)!important;
             transform: translateX(-50%)!important;
 }
+
+.dr_Down:hover .sub-menu__list {
+    visibility: visible;
+    opacity: 1;
+}
